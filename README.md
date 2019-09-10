@@ -1,3 +1,7 @@
+**This is a practice project where I tested different functionalities of Git and Github.**
+
+Tested:
+
 Added stuff to README.
 I add a line to README.
 Third line introduced
@@ -5,7 +9,7 @@ Adding branch updates.
 I hope this wont break things.
 New stashing modification
 
-reset1
+I did reset soft reset to previous commit.
 
-reset2
+I did a hard reset to back to later commit using reflog.
 
