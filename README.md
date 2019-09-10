@@ -2,14 +2,14 @@
 
 **Things tested so far**
 
-Added stuff to README.
-I add a line to README.
-Third line introduced
-Adding branch updates.
-I hope this wont break things.
-New stashing modification
+- Added stuff to README.
+- I add a line to README.
+- Third line introduced
+- Adding branch updates.
+- I hope this wont break things.
+- New stashing modification
 
-I did reset soft reset to previous commit.
+- I did reset soft reset to previous commit.
 
-I did a hard reset to back to later commit using reflog.
+- I did a hard reset to back to later commit using reflog.
 
