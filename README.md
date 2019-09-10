@@ -1,6 +1,6 @@
 **This is a practice project where I tested different functionalities of Git and Github.**
 
-Tested:
+**Things tested so far**
 
 Added stuff to README.
 I add a line to README.
