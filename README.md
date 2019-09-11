@@ -15,3 +15,4 @@
 
 - Adding and removing branches both locally and in Github.
 
+- Tested pull --all command locally.
