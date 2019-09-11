@@ -16,5 +16,4 @@
 - Adding and removing branches both locally and in Github.
 
 - Tested pull --all command locally.
-
-- Testing pull with --rebase on github
+- Tested pull with --rebase locally
