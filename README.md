@@ -17,3 +17,5 @@
 
 - Tested pull --all command locally.
 - Tested pull with --rebase locally
+
+- Development branch set as default branch.
