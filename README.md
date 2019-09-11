@@ -13,3 +13,5 @@
 
 - I did a hard reset to back to later commit using reflog.
 
+- Adding and removing branches both locally and in Github.
+
